@@ -9,10 +9,11 @@ Steps to execute:
         1. Type the following `gcc conversion.c` -> This compiles the program using gcc compiler
         2. The compiled file a.out will be created.
         3. Type `./a.out` to run the compiled file.
-        4. If successfully executed, the output that with a person details should be printed in the terminal.
+        4. If successfully executed, the user will be asked to enter an integer.
+        5. The integer will be transformed into binary and it will be printed
     To Execute `sum.c`
-        1. Type the following `gcc scanning.c` -> This compiles the program using gcc compiler
+        1. Type the following `gcc sum.c` -> This compiles the program using gcc compiler
         2. The compiled file a.out will be created.
         3. Type `./a.out` to run the compiled file.
-        4. If successfully executed, you will be asked to enter two numbers.
-        5. Once you enter, it will show whether the two numbers are odd or even.
+        4. If successfully executed, the sum of the series will be calculated from both the directions.
+        5. The two sums will be printed and its difference will also be printed.
