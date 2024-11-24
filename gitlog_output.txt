@@ -1,0 +1,147 @@
+commit 4b2b6dd4cb4afb61c3079f1fae5d0bd6bc5307d7
+Author: Jesinthan0703 <jesinthan.josephdurairaj@ucdconnect.ie>
+Date:   Thu Nov 21 23:17:21 2024 +0000
+
+    Readme updated
+
+commit ccda4ef7f9394ca429808f517f276f412141e5b7
+Author: Jesinthan0703 <jesinthan.josephdurairaj@ucdconnect.ie>
+Date:   Thu Nov 21 23:06:23 2024 +0000
+
+    magic square added
+
+commit 797f88bca98d676a2dba8cb239bd6a66d0b8f12c
+Author: jesinthan0703 <jesinthan.josephdurairaj@ucdconnect.ie>
+Date:   Thu Nov 21 14:18:28 2024 +0000
+
+    GCD functions added
+
+commit 8875c8ec785ebcae0e787fb73b1523f58dc657b9
+Merge: a004084 b864789
+Author: jesinthan0703 <jesinthan.josephdurairaj@ucdconnect.ie>
+Date:   Thu Nov 21 14:07:26 2024 +0000
+
+    Merge pull request #3 from jesinthan0703/practical5
+    
+    Practical5-7
+
+commit b864789ffc9d15bcde45b54f100a1b3f578c4768
+Author: jesinthan0703 <jesinthan.josephdurairaj@ucdconnect.ie>
+Date:   Thu Nov 21 14:03:00 2024 +0000
+
+    week 7 final
+
+commit 62200250bbfb1c0a4aff85b22b25b9faa9b29e02
+Author: jesinthan0703 <jesinthan.josephdurairaj@ucdconnect.ie>
+Date:   Thu Nov 21 12:22:27 2024 +0000
+
+    mat-mult added
+
+commit 1a49e1cba15f3d1384fadd3a31c0aedaeeb3af12
+Author: jesinthan0703 <jesinthan.josephdurairaj@ucdconnect.ie>
+Date:   Thu Nov 21 11:58:52 2024 +0000
+
+    arcTanFun added
+
+commit 495519f13e74a624b151ede683e7781e31c793a3
+Author: jesinthan0703 <jesinthan.josephdurairaj@ucdconnect.ie>
+Date:   Tue Nov 5 21:54:55 2024 +0000
+
+    fibonacci final
+
+commit a0040842853dbe2d7e1b91dbc09af23232eb2098
+Author: jesinthan0703 <jesinthan.23cs@licet.ac.in>
+Date:   Tue Nov 5 11:19:47 2024 +0000
+
+    practical4 final
+
+commit c4a88b18e3623f7dcc20f54c92b7aa15a61d447b
+Author: jesinthan0703 <jesinthan.23cs@licet.ac.in>
+Date:   Mon Nov 4 22:14:30 2024 +0000
+
+    week3 - final
+
+commit 5c8e207b8c0f3a81b66357971667cfa51a1de4ae
+Author: jesinthan0703 <jesinthan.23cs@licet.ac.in>
+Date:   Sat Oct 26 17:31:37 2024 +0100
+
+    practical2 completed
+
+commit fa84afb652273b8fc463565a4bcc0844292dab06
+Author: jesinthan0703 <jesinthan.23cs@licet.ac.in>
+Date:   Fri Oct 25 22:55:22 2024 +0100
+
+    practical 2 added
+
+commit bb1c64bdc143e83853e17c7abc51d9d9c7f2a1c8
+Author: jesinthan0703 <jesinthan.23cs@licet.ac.in>
+Date:   Fri Oct 25 22:28:24 2024 +0100
+
+    practical 1 finished
+
+commit a2f0bd943cc9cb2da51649397e552c9fe42e1ee3
+Merge: 9b48b42 7fa3951
+Author: jesinthan0703 <jesinthan.josephdurairaj@ucdconnect.ie>
+Date:   Fri Oct 25 22:06:07 2024 +0100
+
+    Merge pull request #2 from jesinthan0703/practical3
+    
+    practical 1 modified
+
+commit 7fa3951689157a6f0f952f3491259d7c15933235
+Author: jesinthan0703 <jesinthan.23cs@licet.ac.in>
+Date:   Fri Oct 25 22:04:33 2024 +0100
+
+    practical 1 modified
+
+commit 9b48b42894642f19fc68b3d162969efbecb3065e
+Author: jesinthan0703 <jesinthan.josephdurairaj@ucdconnect.ie>
+Date:   Sat Oct 12 16:05:40 2024 +0100
+
+    Create README.md
+
+commit 799028c2fd7e74568c00f1c52d6bf42dbd3b8a16
+Merge: ab96152 04c082c
+Author: jesinthan0703 <jesinthan.josephdurairaj@ucdconnect.ie>
+Date:   Sat Oct 12 16:02:49 2024 +0100
+
+    Merge pull request #1 from jesinthan0703/practical2
+    
+    Practical2
+
+commit 04c082cbb5fe614b394a5a7cba274689a07ffd4d
+Author: jesinthan0703 <jesinthan.josephdurairaj@ucdconnect.ie>
+Date:   Sat Oct 12 16:01:53 2024 +0100
+
+    Deleted .DS_Store
+
+commit 292ec5c55d3cb7fb21e65f8314b7327a05b995ae
+Merge: 43f283a eec5ac9
+Author: jesinthan0703 <jesinthan.23cs@licet.ac.in>
+Date:   Sat Oct 12 16:01:13 2024 +0100
+
+    .DS store file deleted
+
+commit 43f283afb18cc710d68ecf81f6a444d89416f6a4
+Author: jesinthan0703 <jesinthan.23cs@licet.ac.in>
+Date:   Sat Oct 12 15:59:01 2024 +0100
+
+    Readme updated
+
+commit eec5ac95b4ecf2ec47a5e756c3da0ad191cf3087
+Author: jesinthan0703 <jesinthan.josephdurairaj@ucdconnect.ie>
+Date:   Sat Oct 12 15:50:28 2024 +0100
+
+    Deleted .DS_Store
+
+commit 2724754bee4cde25c2ed354e455791f8547c2c5e
+Author: jesinthan0703 <jesinthan.23cs@licet.ac.in>
+Date:   Sat Oct 12 15:47:18 2024 +0100
+
+    added - Hello wordl
+
+commit ab96152d1bd7ab986c5e55a448a02f589cc678c8
+Author: jesinthan0703 <jesinthan.josephdurairaj@ucdconnect.ie>
+Date:   Sat Oct 12 15:41:07 2024 +0100
+
+    Initial commit
